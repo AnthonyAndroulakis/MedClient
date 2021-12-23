@@ -11,7 +11,7 @@ for o in opportunities:
     print(o['name'])
 ```
 
-## some docs
+## very short docs
 ```MedClient.search```
 #### Parameters (all optional):
 - categories (list of strs) - can be 'research', 'program', 'volunteering', and/or 'shadowing'
